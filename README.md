@@ -9,6 +9,16 @@ The library includes extensible tools for search, reasoning, and clarification, 
 
 ______________________________________________________________________
 
+## Documentation
+
+> **Get started quickly with our documentation:**
+
+- **[Project Docs](https://vamplabai.github.io/sgr-agent-core/)** - Complete project documentation
+- **[Framework Quick Start Guide](https://vamplabai.github.io/sgr-agent-core/framework/first-steps/)** - Get up and running in minutes
+- **[DeepSearch Service Documentation](https://vamplabai.github.io/sgr-agent-core/sgr-api/SGR-Quick-Start/)** - REST API reference with examples
+
+______________________________________________________________________
+
 ## Quick Start
 
 ### Installation
@@ -45,16 +55,6 @@ The server will start on `http://localhost:8010` with OpenAI-compatible API endp
 > ```
 
 For more examples and detailed usage instructions, see the [examples/](examples/) directory.
-
-______________________________________________________________________
-
-## Documentation
-
-> **Get started quickly with our documentation:**
-
-- **[Project Docs](https://vamplabai.github.io/sgr-agent-core/)** - Complete project documentation
-- **[Framework Quick Start Guide](https://vamplabai.github.io/sgr-agent-core/framework/first-steps/)** - Get up and running in minutes
-- **[DeepSearch Service Documentation](https://vamplabai.github.io/sgr-agent-core/sgr-api/SGR-Quick-Start/)** - REST API reference with examples
 
 ______________________________________________________________________
 
