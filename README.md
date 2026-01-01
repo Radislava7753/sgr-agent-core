@@ -19,6 +19,25 @@ ______________________________________________________________________
 
 ______________________________________________________________________
 
+## GALA — Guiding Architecture & Living Assumptions
+
+**Philosophy: Real Practice First, Scale Second**
+
+This project embodies a commitment to **honest auditing**—no promises of miraculous rankings, no guarantees of "LLM dominance." We measure what is measurable, document what works, and prioritize **actionable insights** over theoretical perfection.
+
+The `docs/` directory is not a museum of finalized theory. It is a **living operational base**—continuously refined through real client engagements, field-tested methodologies, and iterative learning. Every document here reflects current practice, not aspirational standards.
+
+**Core Operational Documents:**
+- **INTAKE_FORM.md** — Client onboarding questionnaire (structured intake for consistent audits)
+- **QUERY_LIBRARY.md** — 24 validated LLM visibility test queries (FR/EN, info/comparative/transactional)
+- **CRITERIA_BENCHMARKS.md** — Objective evaluation thresholds (technical/semantic/LLM visibility scoring)
+
+These files are the **foundation of production audits**—battle-tested, versioned (v0.1+), and evolving with each case. They represent our operational DNA: start with clarity, iterate with evidence, scale what survives contact with reality.
+
+**Principle:** If it's documented here, it's because it worked in practice. If it stops working, we update it. No sacred cows, no permanent assumptions—only **guiding architecture** built from **living assumptions**.
+
+______________________________________________________________________
+
 ## Quick Start
 
 ### Installation
